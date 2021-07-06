@@ -1,0 +1,15 @@
+def jwiki():
+    print('This is the Jexir Wiki\nJexir is an Sad Assistant because nobody uses him')
+    print('To use me you can type any number that is associated with an command')
+    print('At any Point you Can type q and hit enter to quit')
+    print('Or you Can Just "x" Out of the program')
+    print('While This is avaible to the public it is still lame and will need more work')
+    print('If you know how to do python and would like to help shoot me a email')
+    print('yo.so.ima.stoner@gmail.com')
+    print('Or if you Just want to Do anything else for Jexir')
+    print('Or if you want to spam my email \_(0.0)_/')
+    print('This project was started in April one day when I was Bored')
+    print('Hope You like it!')
+    con = input('Hit Enter to Continue\n\n')
+    if con == 'q':
+        quit()
